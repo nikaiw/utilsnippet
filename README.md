@@ -11,3 +11,7 @@
 ## javaagent
 
 * StaticMethodLister: a java agent to list static methods
+
+## whoispf
+
+* A golang snippet for retrieve whois information (Org/Netname, Location, country) on a list of target IP, or whois information of allowed IP in a domain SPF
